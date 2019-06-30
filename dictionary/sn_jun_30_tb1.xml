@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tb1" max_length="40" name="sn_jun_30_tb1" type="collection">
-        
+        <element label="COL1" max_length="20" name="col1" type="string"/>
     </element>
 </database>
