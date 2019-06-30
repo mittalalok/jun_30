@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tb2" max_length="40" name="sn_jun_30_tb2" type="collection">
+        <element label="COL3" max_length="10" name="col3" type="sys_class_name"/>
         <element choice="1" label="MYCHOICE" max_length="10" name="mychoice" type="choice">
             <choice/>
         </element>
-        
+        <index name="index">
+            <element name="col3"/>
+        </index>
     </element>
 </database>
