@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tb1_bkp" max_length="40" name="sn_jun_30_tb1" type="collection">
         <element hint="Some hint" label="COL1" max_length="10" name="col1" type="string"/>
-        
+        <element hint="COL2 hint" label="COL2" max_length="15" name="col2" type="string"/>
     </element>
 </database>
