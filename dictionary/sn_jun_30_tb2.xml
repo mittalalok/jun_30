@@ -3,6 +3,12 @@
         <element choice="1" label="COL3" max_length="10" name="col3" type="sys_class_name">
             <choice/>
         </element>
+        <element choice="1" label="COL4" max_length="10" name="col4" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CH1" value="ch1"/>
+                <element inactive_on_update="false" label="CH2" value="ch2"/>
+            </choice>
+        </element>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="string" use_dynamic_default="true"/>
         <index name="index">
             <element name="sys_class_name"/>
