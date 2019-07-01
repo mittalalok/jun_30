@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="T2" max_length="40" name="sn_jun_30_t2" type="collection">
         <element label="COL1" max_length="10" name="col1" type="sys_class_name"/>
-        <element label="COL2" max_length="20" name="col2" type="sys_class_name"/>
+        <element label="COL2" max_length="20" name="col2" type="auto_increment"/>
         <index name="index">
             <element name="col1"/>
         </index>
