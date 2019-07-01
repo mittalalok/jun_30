@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="TB2" max_length="40" name="sn_jun_30_tb2" type="collection">
-        <element choice="1" label="COL3" max_length="10" name="col3" type="choice">
+        <element choice="1" label="COL3" max_length="10" name="col3" type="string">
             <choice/>
         </element>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="string" use_dynamic_default="true"/>
