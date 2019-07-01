@@ -32,7 +32,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">sys_class_name</internal_type>
         <mandatory>false</mandatory>
         <max_length>20</max_length>
         <name>sn_jun_30_t2</name>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-01 10:03:01</sys_created_on>
         <sys_id>5c47823e731233001c233096fbf6a71e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>COL2</sys_name>
         <sys_package display_value="jun_30" source="sn_jun_30">57ced9a2731233001c233096fbf6a707</sys_package>
         <sys_policy/>
         <sys_scope display_value="jun_30">57ced9a2731233001c233096fbf6a707</sys_scope>
         <sys_update_name>sys_dictionary_sn_jun_30_t2_col2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-01 10:03:01</sys_updated_on>
+        <sys_updated_on>2019-07-01 11:19:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
